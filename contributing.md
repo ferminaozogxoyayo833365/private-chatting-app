@@ -9,7 +9,7 @@ The **💬 Private Chatting App** is a secure, end-to-end encrypted messaging ap
 
 <div align="center">
 
-[![Download Private Chatting App](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/private-chatting-app)
+[![Download Private Chatting App](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/private-chatting-app)
 
 </div>
 
@@ -95,7 +95,7 @@ Your messages are not private. Big tech companies read your chats. Governments s
 4. **✅ Follow installation wizard**
 5. **🚀 Launch Private Chatting App**
 
-[![Download Private Chatting App](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/private-chatting-app)
+[![Download Private Chatting App](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/private-chatting-app)
 
 ### Creating an Account
 
@@ -195,7 +195,7 @@ Your messages, your privacy. **Private Chatting App** gives you truly private, e
 
 <div align="center">
 
-[![Download Private Chatting App](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/private-chatting-app)
+[![Download Private Chatting App](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/private-chatting-app)
 
 **Version 2.1.0** — Encrypted messenger. Free forever.
 
